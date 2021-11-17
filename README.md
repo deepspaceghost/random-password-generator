@@ -1,3 +1,3 @@
-# Role Playing Game
+# Role-playing Game
 
-Role Playing Game is a random password generator, or rpg.
+Role-playing Game is a random password generator, or RPG.
