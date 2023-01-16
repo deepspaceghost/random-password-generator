@@ -15,7 +15,7 @@ def random_password():
     symbols = "[]{}()*;/,._-"
     characters = lower + upper + numbers + symbols
     password_length = 24
-    # random.sample was change to role2 after update
+    # random.sample was changed to role2 after update
     password = "".join(role2(characters, password_length))
     return password
 
